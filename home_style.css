@@ -1,0 +1,25 @@
+.nav-bar{
+    border: 1px solid black;
+    height: 2em;
+    background-color: midnightblue;
+       
+}
+button{
+    position: relative;
+    top: 5px;
+    border-radius: 2px;
+}
+a{
+padding-left: 30px;
+}
+#home{
+    
+}
+body{
+    background-image: url("homepageBG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

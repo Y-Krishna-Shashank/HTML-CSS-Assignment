@@ -1,0 +1,12 @@
+img{
+    width: 20px;
+    height: 20px;
+}
+form{
+    position: relative;
+    left: 365px;
+    top:365px;
+    width: 450px;
+    height: 300px;
+    justify-content: center;
+}
